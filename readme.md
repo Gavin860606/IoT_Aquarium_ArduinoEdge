@@ -11,6 +11,10 @@
  3. PWM Fan 4-Pin * 2
     
     <img src="https://github.com/Gavin860606/IoT_Aquarium_ArduinoEdge/assets/45595298/e39cc71a-d848-4f14-97bd-a0744502aeb8" width="280" height="180">
+
+## Diagram
+ <img src="https://github.com/Gavin860606/IoT_Aquarium_ArduinoEdge/assets/45595298/7f85adde-d609-4f9f-a239-f3f8242abeec" width="1024" height="768">
+
 ## Arduino Libraries
  1. Azure SDK for C --> Handle Azure IoT Hub client Initial
  2. DallasTemperature --> Handle DS18B20 water temperature sensor
